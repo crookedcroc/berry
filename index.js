@@ -17,15 +17,17 @@
 	<meta property="og:url" content="https://crocodile-berry.onrender.com/">
 	<meta property="og:title" content="Nagabet88: Agen Permainan Slot Gacor RTP 98% Deposit DANA Disini">
 	<meta property="og:type" content="website">
-	<meta property="og:description" content="Nagabet88 adalah situs judi slot online gacor resmi dan terbaik di Indonesia yang memiliki daftar game slot gacor dengan fitur RTP slot tertinggi."><meta name="twitter:card" content="summary_large_image">
+	<meta property="og:description" content="Nagabet88 adalah situs judi slot online gacor resmi dan terbaik di Indonesia yang memiliki daftar game slot gacor dengan fitur RTP slot tertinggi.">
+	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Nagabet88: Agen Permainan Slot Gacor RTP 98% Deposit DANA Disini">
 	<meta name="twitter:description" content="Nagabet88 adalah situs judi slot online gacor resmi dan terbaik di Indonesia yang memiliki daftar game slot gacor dengan fitur RTP slot tertinggi.">
     <script src="//cdn.shopify.com/s/files/1/0773/0275/9737/t/2/assets/constants.js?v=95358004781563950421685335139" defer="defer"></script>
     <script src="//cdn.shopify.com/s/files/1/0773/0275/9737/t/2/assets/pubsub.js?v=2921868252632587581685335140" defer="defer"></script>
     <script src="//cdn.shopify.com/s/files/1/0773/0275/9737/t/2/assets/global.js?v=127210358271191040921685335140" defer="defer"></script>
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/77302759737/digital_wallets/dialog">
-<meta name="shopify-checkout-api-token" content="d479c189fc0e65c900ef79a0ca1f17f0">
-<meta id="in-context-paypal-metadata" data-shop-id="77302759737" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="SGD">
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
+	<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/77302759737/digital_wallets/dialog">
+	<meta name="shopify-checkout-api-token" content="d479c189fc0e65c900ef79a0ca1f17f0">
+	<meta id="in-context-paypal-metadata" data-shop-id="77302759737" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="SGD">
 <script>
   (function() {
     var scripts = ["https://cdn.shopify.com/shopifycloud/checkout-web/assets/runtime.latest.en.fc8a3b4b8a928928f797.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages-packages_checkout-react-html_src_hooks_title_ts.latest.en.3457953d3abd1b694aa5.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app_components_AddressForm_AddressForm_tsx-app_components_Step_Step_tsx-app_utilities_receipt-224401.latest.en.8bb43cbf1572d8c3c00d.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/Information.latest.en.eab1eb67002314294835.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-ui-packages_checkout-web-ui_src_styles_global_css_ts-packages_checkout-web-ui_sr-245c9d.latest.en.d95e9b254a765305e384.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/vendors-node_modules_bugsnag_js_browser_notifier_js-node_modules_vanilla-extract_sprinkles_cr-d894ae.latest.en.c6bbec948bd0ac712764.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/checkout-web-packages-packages_card-fields-react_src_hook_ts-packages_checkout-graphql_src_in-92a386.latest.en.585aeb6f583627ae41f3.js", "https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.dd5d979d42a329fe1cac.js"];
@@ -1413,7 +1415,7 @@ for (var attr in meta) {
             }
             .logomobi {
                 padding-top: 10px;
-                border-bottom: solid #327d1f 2px;
+                border-bottom: solid #fd1c06 2px;
                 border-radius: 10px
             }
             .content {
@@ -1474,26 +1476,26 @@ for (var attr in meta) {
             margin: 35px 0
         }
         .copyleft a {
-            color: #327d1f
+            color: #fd1c06
         }
         .slide {
             width: 100%;
-            border: 2px solid #327d1f;
+            border: 2px solid #fd1c06;
             border-radius: 4px;
-            box-shadow: 0 0 3px 0 #327d1f
+            box-shadow: 0 0 3px 0 #fd1c06
         }
         .btn-daf {
             margin: 30px 0 30px 0;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #327d1f 0, #000 96%);
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #fd1c06 0, #000 96%);
             animation: blinking .5s infinite;
             transition: all .4s
         }
         @keyframes blinking {
             0% {
-                border: 3px solid #327d1f
+                border: 3px solid #fd1c06
             }
             100% {
-                border: 3px solid #327d1f
+                border: 3px solid #fd1c06
             }
         }
         table.kotak {
@@ -1506,23 +1508,23 @@ for (var attr in meta) {
         }
         table.kotak td,
         table.kotak th {
-            border: 1px solid #327d1f;
+            border: 1px solid #fd1c06;
             padding: 10px 5px 10px
         }
         table.kotak tbody td {
             font-size: calc(8px+1vh);
             font-weight: 500;
-            color: #327d1f
+            color: #fd1c06
         }
         table.kotak thead {
-            background: #327d1f
+            background: #fd1c06
         }
         table.kotak thead th {
             font-size: calc(12px+1vh);
             font-weight: 700;
             color: #fff;
             text-align: center;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #327d1f 0, #000 96%)
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #fd1c06 0, #000 96%)
         }
         .main-menu-container {
             aspect-ratio: 100 / 29;
@@ -1555,7 +1557,7 @@ for (var attr in meta) {
             font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             font-size: calc(8px+1vh);
             font-weight: 500;
-            border: 2px solid #327d1f;
+            border: 2px solid #fd1c06;
             border-radius: 5px;
             padding: 30px;
             text-align: center;
@@ -1582,14 +1584,14 @@ for (var attr in meta) {
         .site-description {
             text-align: left;
             padding: 10px;
-            color: #36ff03;
+            color: #fd1c06;
             border-radius: 5px;
-            box-shadow: 0 0 8px 4px #327d1f
+            box-shadow: 0 0 8px 4px #fd1c06
         }
         .site-description hr {
             margin: 10px 0 10px 0;
-            color: #327d1f;
-            border: 1px solid #327d1f
+            color: #fd1c06;
+            border: 1px solid #fd1c06
         }
         .site-description p {
             font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -1610,7 +1612,7 @@ for (var attr in meta) {
             color: #fff;
         }
         .site-description a {
-            color: #327d1f
+            color: #fd1c06
         }
         .site-description h1 {
             font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
@@ -1618,7 +1620,7 @@ for (var attr in meta) {
             font-style: normal;
             font-variant: normal;
             font-weight: 500;
-            color: #36ff03;
+            color: #fd1c06;
             margin: 20px 0 20px 0;
             text-align: center
         }
@@ -1629,7 +1631,7 @@ for (var attr in meta) {
             font-variant: normal;
             font-weight: 500;
             line-height: 23px;
-            color: #36ff03;
+            color: #fd1c06;
             margin: 20px 0 20px 0;
             text-align: center
         }
@@ -1640,7 +1642,7 @@ for (var attr in meta) {
             font-variant: normal;
             font-weight: 500;
             line-height: 23px;
-            color: #36ff03;
+            color: #fd1c06;
             margin: 20px 0 20px 0;
             padding: 10px 10px 10px 10px;
         }
@@ -1651,7 +1653,7 @@ for (var attr in meta) {
             font-variant: normal;
             font-weight: 500;
             line-height: 23px;
-            color: #327d1f;
+            color: #fd1c06;
             margin: 20px 0 20px 0;
             padding: 10px;
         }
@@ -1705,7 +1707,7 @@ for (var attr in meta) {
             font-variant: normal;
             font-weight: 200;
             line-height: 23px;
-            color: #327d1f
+            color: #fd1c06
         }
         #daftarisi a {
             text-decoration: none;
@@ -1762,10 +1764,10 @@ for (var attr in meta) {
             line-height: 23px;
             padding: 10px;
             background-color: #e6ea0b;
-            -webkit-box-shadow: 1px 1px 15px 0 #327d1f;
-            -moz-box-shadow: 1px 1px 15px 0 #327d1f;
-            box-shadow: 1px 1px 15px 0 #327d1f;
-            border: solid #ffffff
+            -webkit-box-shadow: 1px 1px 15px 0 #fd1c06;
+            -moz-box-shadow: 1px 1px 15px 0 #fd1c06;
+            box-shadow: 1px 1px 15px 0 #fd1c06;
+            border: solid #fd1c06
              3px;
             text-decoration: none;
             display: flex;
@@ -1794,7 +1796,7 @@ for (var attr in meta) {
             font-weight: 700;
             line-height: 23px;
             padding: 10px;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #327d1f 0, #000 96%);
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #fd1c06 0, #000 96%);
             color: #fff;
             text-decoration: none;
             display: flex;
@@ -1804,8 +1806,8 @@ for (var attr in meta) {
             margin: 0 10px 0 0;
         }
         .tron-regis:hover {
-            background: #327d1f;
-            border: solid #327d1f 5px;
+            background: #fd1c06;
+            border: solid #fd1c06 5px;
             -webkit-border-radius: 0;
             -moz-border-radius: 0;
             border-radius: 0;
@@ -1824,11 +1826,11 @@ for (var attr in meta) {
             font-weight: 300;
             line-height: 15px;
             padding: 10px;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #327d1f 0, #000 96%);
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #fd1c06 0, #000 96%);
             -webkit-box-shadow: 1px 1px 10px 0 #533c02;
             -moz-box-shadow: 1px 1px 10px 0 #533c02;
             box-shadow: 1px 1px 10px 0 #533c02;
-            border: solid #327d1f 2px;
+            border: solid #fd1c06 2px;
             text-decoration: none;
             display: flex;
             cursor: pointer;
@@ -1838,7 +1840,7 @@ for (var attr in meta) {
         }
         .tron:hover {
             background: #000;
-            border: solid #327d1f 5px;
+            border: solid #fd1c06 5px;
             -webkit-border-radius: 0;
             -moz-border-radius: 0;
             border-radius: 0;
@@ -1848,10 +1850,10 @@ for (var attr in meta) {
             -webkit-border-radius: 0;
             -moz-border-radius: 0;
             border-radius: 5px;
-            color: #327d1f;
-            -webkit-box-shadow: 1px 1px 10px 0 #327d1f;
-            -moz-box-shadow: 1px 1px 10px 0 #327d1f;
-            box-shadow: 1px 1px 10px 0 #327d1f;
+            color: #fd1c06;
+            -webkit-box-shadow: 1px 1px 10px 0 #fd1c06;
+            -moz-box-shadow: 1px 1px 10px 0 #fd1c06;
+            box-shadow: 1px 1px 10px 0 #fd1c06;
             display: block;
             cursor: pointer;
             text-align: center;
@@ -1912,7 +1914,7 @@ for (var attr in meta) {
                 background-color: transparent;
                 justify-content: center;
                 display: block;
-                border-bottom: solid #327d1f 2px;
+                border-bottom: solid #fd1c06 2px;
                 padding: auto;
                 border-radius: 10px;
                 margin-top: 20px
@@ -1934,7 +1936,7 @@ for (var attr in meta) {
                 background-color: transparent;
                 justify-content: center;
                 display: flex;
-                border-bottom: solid #327d1f 2px;
+                border-bottom: solid #fd1c06 2px;
                 padding: auto;
                 border-radius: 10px
             }
@@ -1946,11 +1948,11 @@ for (var attr in meta) {
             }
         }
         .updated {
-            border: solid 2px #327d1f;
+            border: solid 2px #fd1c06;
             padding: 10px
         }
         .bsf-rt-reading-time {
-            color: #bfbfbf;
+            color: #ffffff;
             font-size: 12px;
             width: max-content;
             display: block;
@@ -2010,18 +2012,18 @@ for (var attr in meta) {
                 border: 2px solid #fff
             }
             100% {
-                border: 2px solid #327d1f
+                border: 2px solid #fd1c06
             }
         }
         span.faq-arrow {
             float: right;
-            color: #ffffff
+            color: #fd1c06
         }
         .fixed-footer {
             display: flex;
             justify-content: space-around;
             position: fixed;
-            background: radial-gradient(circle 214px at 46.5% 54.2%, #327d1f 0, #000 96%);
+            background: radial-gradient(circle 214px at 46.5% 54.2%, #fd1c06 0, #000 96%);
             padding: 5px 0;
             left: 0;
             right: 0;
@@ -2328,7 +2330,7 @@ for (var attr in meta) {
                         <article style="margin-inline: 27px;">
 <h2 style="text-align: center;">Nagabet88 RTP Live Slot Online Link Pragmatic Play 98%</h2><div style="text-align: justify;">Tentu Kamu bimbang kan? Mana situs slot Dana&nbsp;Terbaru serta terpercaya nomor 1 di Indonesia selaku game yang seru buat dimainkan, telah tidak aneh bila game ini memiliki penggemar yang paling di bandingkan dengan game taruhan judi daring yang lain. Untuk Kamu yang lagi mencari situs judi slot terlengkap buat Kamu bermain maupun lagi mencari tipe daftar judi slot Terbaru, kebetulan slot88 lagi membahas mana provider Terbaru di Indonesia.</div>
 <div class="col-sm-12" style="margin-bottom: 30px; margin-top: 30px; padding: 0px 10px;">
-                   <table border="1" style="border-collapse: collapse; border-color: rgb(71, 71, 75); color: #8a8a8a; margin-left: auto; margin-right: auto; text-align: left; width: 100%;">
+                   <table border="1" style="border-collapse: collapse; border-color: rgb(71, 71, 75); color: #ffffff; margin-left: auto; margin-right: auto; text-align: left; width: 100%;">
                       <tbody>
                          <tr bgcolor="#2f2f2f">
                             <td style="padding: 5px;"><b>Link Alternatif:</b></td>
