@@ -12,7 +12,7 @@
       Nagabet88: Agen Permainan Slot Gacor RTP 98% Deposit DANA Disini
  &ndash; My Store</title>
     <meta name="description" content="Nagabet88 adalah situs judi slot online gacor resmi dan terbaik di Indonesia yang memiliki daftar game slot gacor dengan fitur RTP slot tertinggi.">
-	<meta property="og:site_name" content="Nagabet8888">
+	<meta property="og:site_name" content="Nagabet88">
 	<meta property="og:url" content="https://crocodile-berry.onrender.com/">
 	<meta property="og:title" content="Nagabet88: Agen Permainan Slot Gacor RTP 98% Deposit DANA Disini">
 	<meta property="og:type" content="website">
