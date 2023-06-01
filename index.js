@@ -2303,12 +2303,12 @@ for (var attr in meta) {
                     </tr>
                     <tr>
                         <td style="padding: 10px;">Daftar Sekarang</td>
-                        <td style="padding: 10px;"><a href="https://crocodile-berry.onrender.com/" rel="nofollow noopener" target="_blank" title="Daftar Sekarang (Nagabet88)">Klik Disini</a>
+                        <td style="padding: 10px;"><a href="https://fsht.pro/jlbzmceubg" rel="nofollow noopener" target="_blank" title="Daftar Sekarang (Nagabet88)">Klik Disini</a>
                         </td>
                     </tr>
                     <tr>
                         <td style="padding: 10px;">Link Alternatif Nagabet88</td>
-                        <td style="padding: 10px;"><a href="https://crocodile-berry.onrender.com/" rel="nofollow noopener" target="_blank" title="Link Alternatif Terbaru Nagabet88 ">Link Alternatif Nagabet88 </a>
+                        <td style="padding: 10px;"><a href="https://fsht.pro/jlbzmceubg" rel="nofollow noopener" target="_blank" title="Link Alternatif Terbaru Nagabet88 ">Link Alternatif Nagabet88 </a>
                         </td>
                         </tr>
                 </tbody>
