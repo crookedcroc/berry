@@ -5,10 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
+    <meta name="google-site-verification" content="o-tWebhctH15oC1ly8KdCwQEpbnFgXXZ-k4YvrrUGj8" />
     <link rel="canonical" href="https://crocodile-berry.onrender.com/">
     <link rel="amphtml" href="https://neil-noma-styp0h6.footbal.fr/pages/Nagabet88">
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
-    <meta name="google-site-verification" content="lGs9VIcVSulndeopX7bvpbyekyXe1NyCoYuzKw3aNWk" /><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       Nagabet88: Agen Permainan Slot Gacor RTP 98% Deposit DANA Disini
  &ndash; My Store</title>
     <meta name="description" content="Nagabet88 adalah situs judi slot online gacor resmi dan terbaik di Indonesia yang memiliki daftar game slot gacor dengan fitur RTP slot tertinggi.">
