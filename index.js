@@ -2248,17 +2248,17 @@ for (var attr in meta) {
                 <div class="col-md-8">
                     <div class="row logform">
                         <div class="col-xs-6">
-                            <a href="https://fsht.pro/jlbzmceubg" target="_blank" rel="nofollow noreferrer"><span class="tron-login">MASUK</span></a>
+                            <a href="https://fsht.pro/xffqcoirfi" target="_blank" rel="nofollow noreferrer"><span class="tron-login">MASUK</span></a>
                         </div>
                         <div class="col-xs-6">
-                            <a href="https://fsht.pro/jlbzmceubg" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">JOIN NOW</span></a>
+                            <a href="https://fsht.pro/xffqcoirfi" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">JOIN NOW</span></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 mt-3">
-                    <a href="https://fsht.pro/jlbzmceubg" rel="nofollow noreferrer">
+                    <a href="https://fsht.pro/xffqcoirfi" rel="nofollow noreferrer">
                     <button type="login" class="btn btn-daf">Daftar & Dapatkan Bonus Menarik Dari Link Alternatif Nagabet88</button></a>
                 </div>
             </div>
@@ -2303,12 +2303,12 @@ for (var attr in meta) {
                     </tr>
                     <tr>
                         <td style="padding: 10px;">Daftar Sekarang</td>
-                        <td style="padding: 10px;"><a href="https://fsht.pro/jlbzmceubg" rel="nofollow noopener" target="_blank" title="Daftar Sekarang (Nagabet88)">Klik Disini</a>
+                        <td style="padding: 10px;"><a href="https://fsht.pro/xffqcoirfi" rel="nofollow noopener" target="_blank" title="Daftar Sekarang (Nagabet88)">Klik Disini</a>
                         </td>
                     </tr>
                     <tr>
                         <td style="padding: 10px;">Link Alternatif Nagabet88</td>
-                        <td style="padding: 10px;"><a href="https://fsht.pro/jlbzmceubg" rel="nofollow noopener" target="_blank" title="Link Alternatif Terbaru Nagabet88 ">Link Alternatif Nagabet88 </a>
+                        <td style="padding: 10px;"><a href="https://fsht.pro/xffqcoirfi" rel="nofollow noopener" target="_blank" title="Link Alternatif Terbaru Nagabet88 ">Link Alternatif Nagabet88 </a>
                         </td>
                         </tr>
                 </tbody>
