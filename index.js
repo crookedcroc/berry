@@ -2448,6 +2448,12 @@ for (var attr in meta) {
             <p align="justify"> </p>
                            
             <p align="justify">Dapatkan Link Alternatif Login terbaru dari Nagabet88 disini.</p>
+<a href="https://rb.gy/2g6u6">Ezzesport</a>
+<a href="https://rb.gy/741ww">Toto Macau 4D</a>
+<a href="https://akunprojepang888.powerappsportals.com/">Akun Pro Jepang</a>
+<a href="https://slot-demo-ezzesport.powerappsportals.com/">Slot Demo</a>
+<a href="https://nagabet88-slot.powerappsportals.com/">Nagabet88</a>
+<a href="https://jackpotplay-pragmatic.powerappsportals.com/">Jackpot Play Pragmatic</a>
 </div>
         </section>
 </amp-accordion>
@@ -2464,12 +2470,7 @@ for (var attr in meta) {
         </div>
     </div>
     </div>
-<a href="https://rb.gy/2g6u6">Ezzesport</a>
-<a href="https://rb.gy/741ww">Toto Macau 4D</a>
-<a href="https://akunprojepang888.powerappsportals.com/">Akun Pro Jepang</a>
-<a href="https://slot-demo-ezzesport.powerappsportals.com/">Slot Demo</a>
-<a href="https://nagabet88-slot.powerappsportals.com/">Nagabet88</a>
-<a href="https://jackpotplay-pragmatic.powerappsportals.com/">Jackpot Play Pragmatic</a>
+
 </body>
 </html>
     </main>
