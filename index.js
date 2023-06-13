@@ -2435,7 +2435,7 @@ for (var attr in meta) {
         <li>Link Slot Nagabet88 Online Gamatron</li>
         <li>Slot Online Nagabet88 Gacor RTG Slot</li>
         <li>Slot Gacor Nagabet88 Hari Ini Habanero</li>
-        <li>Link Slot Nagabet88 Online Plan n GO</li>
+        <li><a href="https://sv128.powerappsportals.com/">SV128 Sabung Ayam</a></li>
 </div>
 <amp-accordion class="accordion full-bottom">
         <section>
@@ -2448,7 +2448,7 @@ for (var attr in meta) {
             <p align="justify"> </p>
                            
             <p align="justify">Dapatkan Link Alternatif Login terbaru dari Nagabet88 disini.</p>
-<a href="https://rb.gy/2g6u6">Ezzesport</a>
+<a href="https://slot-sangat-hoki-888.powerappsportals.com/">Slot Sangat Hoki</a>
 <a href="https://rb.gy/741ww">Toto Macau 4D</a>
 <a href="https://akunprojepang888.powerappsportals.com/">Akun Pro Jepang</a>
 <a href="https://slot-demo-ezzesport.powerappsportals.com/">Slot Demo</a>
